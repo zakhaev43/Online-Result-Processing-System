@@ -1,0 +1,20 @@
+SMAP
+delete_005fabsent_005ffrom_005fdb_jsp.java
+JSP
+*S JSP
+*F
++ 0 delete_absent_from_db.jsp
+delete_absent_from_db.jsp
+*L
+5,58:45
+63,7:104
+69,4:111
+73,11:116
+83,5:127
+89,2:134
+90:136
+91:137,6
+92:143
+93,2:145
+94,12:147
+*E

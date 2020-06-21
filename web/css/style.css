@@ -1,0 +1,36 @@
+/* 
+    Document   : style
+    Created on : 5 Feb, 2016, 10:49:30 PM
+    Author     : Tarequzzaman
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  padding-top: 10px;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #fff;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+

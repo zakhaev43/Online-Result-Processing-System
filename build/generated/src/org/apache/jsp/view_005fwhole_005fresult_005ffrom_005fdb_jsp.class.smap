@@ -1,0 +1,18 @@
+SMAP
+view_005fwhole_005fresult_005ffrom_005fdb_jsp.java
+JSP
+*S JSP
+*F
++ 0 view_whole_result_from_db.jsp
+view_whole_result_from_db.jsp
+*L
+5,87:45
+92,10:133
+101,14:143
+115,2:158
+116,3:160
+120,19:165
+138,4:184
+141,7:188
+147,15:195
+*E

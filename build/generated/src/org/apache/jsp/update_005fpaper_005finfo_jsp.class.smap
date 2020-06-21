@@ -1,0 +1,14 @@
+SMAP
+update_005fpaper_005finfo_jsp.java
+JSP
+*S JSP
+*F
++ 0 update_paper_info.jsp
+update_paper_info.jsp
+*L
+5,60:47
+65,4:108
+68,3:112
+71:115,3
+72,9:118
+*E

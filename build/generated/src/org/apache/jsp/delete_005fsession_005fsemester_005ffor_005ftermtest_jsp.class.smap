@@ -1,0 +1,30 @@
+SMAP
+delete_005fsession_005fsemester_005ffor_005ftermtest_jsp.java
+JSP
+*S JSP
+*F
++ 0 delete_session_semester_for_termtest.jsp
+delete_session_semester_for_termtest.jsp
+*L
+5,127:48
+133,11:177
+143,2:188
+145,2:191
+146,2:193
+148,5:196
+152,2:201
+153,3:203
+155,3:206
+157,2:209
+158,27:211
+186,11:240
+196,2:251
+198,2:254
+199,2:256
+201,5:259
+205,2:264
+206,3:266
+208,3:269
+210,2:272
+211,30:274
+*E

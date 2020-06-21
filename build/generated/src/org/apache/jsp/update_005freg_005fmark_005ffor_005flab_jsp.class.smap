@@ -1,0 +1,14 @@
+SMAP
+update_005freg_005fmark_005ffor_005flab_jsp.java
+JSP
+*S JSP
+*F
++ 0 update_reg_mark_for_lab.jsp
+update_reg_mark_for_lab.jsp
+*L
+5,101:44
+106,4:146
+109,4:150
+113,3:154,3
+116,40:163
+*E

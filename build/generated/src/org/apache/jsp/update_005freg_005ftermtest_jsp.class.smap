@@ -1,0 +1,14 @@
+SMAP
+update_005freg_005ftermtest_jsp.java
+JSP
+*S JSP
+*F
++ 0 update_reg_termtest.jsp
+update_reg_termtest.jsp
+*L
+5,104:45
+109,4:150
+112,4:154
+116,3:158,3
+119,40:167
+*E

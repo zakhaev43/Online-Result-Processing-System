@@ -1,0 +1,20 @@
+SMAP
+view_005ftermtest_005ffrom_005fdb_jsp.java
+JSP
+*S JSP
+*F
++ 0 view_termtest_from_db.jsp
+view_termtest_from_db.jsp
+*L
+5,86:45
+96,4:137
+99,4:141
+103,8:146
+110,11:154
+121,2:166
+122,3:168
+125,7:172
+131,4:179
+134,7:183
+140,15:190
+*E

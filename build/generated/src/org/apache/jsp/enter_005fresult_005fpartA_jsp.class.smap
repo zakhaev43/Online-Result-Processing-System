@@ -1,0 +1,12 @@
+SMAP
+enter_005fresult_005fpartA_jsp.java
+JSP
+*S JSP
+*F
++ 0 enter_result_partA.jsp
+enter_result_partA.jsp
+*L
+5,80:44
+86,7:126
+92,35:133
+*E

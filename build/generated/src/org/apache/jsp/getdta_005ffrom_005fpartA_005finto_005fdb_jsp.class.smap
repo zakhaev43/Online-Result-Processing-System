@@ -1,0 +1,24 @@
+SMAP
+getdta_005ffrom_005fpartA_005finto_005fdb_jsp.java
+JSP
+*S JSP
+*F
++ 0 getdta_from_partA_into_db.jsp
+getdta_from_partA_into_db.jsp
+*L
+5,57:46
+63,7:105
+69,2:112
+71,11:115
+81:126
+82:127,6
+83:133
+83,2:134
+84,3:136
+87,17:140
+103,5:157
+109,3:164
+111,3:167
+113,2:170
+114,14:172
+*E
